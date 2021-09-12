@@ -1,5 +1,5 @@
-# VerifyAccount
+# Verify Account
 
-We are still working on it, we are building a UI based bank account verification service.  
+Please bookmark this website and come back later... 
 
 
